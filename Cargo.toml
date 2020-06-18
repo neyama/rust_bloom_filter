@@ -1,0 +1,12 @@
+[package]
+name = "counting_filter"
+version = "0.1.0"
+authors = ["neyama <neyama@toyota-tokyo.tech>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fasthash = "0.4.0"
+bit-vec = "0.6.2"
+extprim = "1.7.1"
